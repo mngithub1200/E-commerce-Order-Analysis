@@ -9,8 +9,8 @@ Conducted a comprehensive analysis of e-commerce order data to uncover trends, p
 - Develop data-driven insights to optimize product demand and inventory management.
 
 **Technical Skills:**
-- SQL: Extracted and manipulated large datasets to identify top-selling products and revenue patterns.
-- Pandas: Cleaned and processed data to detect seasonal sales trends and missing data.
+- Pandas: Extracted and cleaned data to detect seasonal sales trends and missing data.
+- SQL: Processed and manipulated large datasets to identify top-selling products and revenue patterns.
 - Power BI: Visualized order trends, revenue growth, and product demand to facilitate insights.
 
 **Key Achievements:**
